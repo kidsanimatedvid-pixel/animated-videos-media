@@ -1,0 +1,21 @@
+
+<g id="qamra">
+  <circle cx="190" cy="200" r="185" fill="#9FD8FF" opacity="0.15"/>
+  <circle cx="190" cy="200" r="160" fill="#9FD8FF" opacity="0.18"/>
+  <mask id="qm"><rect width="400" height="400" fill="#fff"/><circle cx="290" cy="150" r="125" fill="#000"/></mask>
+  <circle cx="190" cy="200" r="145" fill="#FFE08A" mask="url(#qm)"/>
+  <circle cx="190" cy="200" r="145" fill="none" stroke="#F5C451" stroke-width="8" mask="url(#qm)"/>
+  <!-- sleepy eyes -->
+  <path d="M78 190 Q 92 202 106 190" stroke="#6B4A12" stroke-width="6" fill="none" stroke-linecap="round"/>
+  <path d="M128 198 Q 142 210 156 198" stroke="#6B4A12" stroke-width="6" fill="none" stroke-linecap="round"/>
+  <path d="M76 186 L 70 178 M86 184 L 83 175" stroke="#6B4A12" stroke-width="4" stroke-linecap="round"/>
+  <!-- cheeks + smile -->
+  <ellipse cx="86" cy="222" rx="14" ry="9" fill="#FF9FB0" opacity="0.75"/>
+  <ellipse cx="150" cy="228" rx="12" ry="8" fill="#FF9FB0" opacity="0.75"/>
+  <path d="M104 236 Q 118 250 134 238" stroke="#6B4A12" stroke-width="6" fill="none" stroke-linecap="round"/>
+  <!-- star hair clip -->
+  <path d="M118 62 l9 18 20 3 -14 14 3 20 -18 -9 -18 9 3 -20 -14 -14 20 -3z" fill="#FFFFFF" stroke="#F5C451" stroke-width="4" stroke-linejoin="round"/>
+  <!-- sparkles -->
+  <path d="M300 300 l6 14 14 6 -14 6 -6 14 -6 -14 -14 -6 14 -6z" fill="#FFF7D6"/>
+  <path d="M330 230 l4 9 9 4 -9 4 -4 9 -4 -9 -9 -4 9 -4z" fill="#FFF7D6"/>
+</g>

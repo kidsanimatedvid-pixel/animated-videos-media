@@ -1,0 +1,25 @@
+
+<g id="hudhud">
+  <!-- crest -->
+  <g transform="rotate(-50 200 125)"><rect x="188" y="25" width="24" height="100" rx="12" fill="#F0A35E"/><rect x="188" y="40" width="24" height="12" fill="#FFFFFF"/><path d="M188 52 V 37 A 12 12 0 0 1 212 37 V 40 H 188 Z" fill="#2B1B12"/></g><g transform="rotate(-25 200 125)"><rect x="188" y="25" width="24" height="100" rx="12" fill="#F0A35E"/><rect x="188" y="40" width="24" height="12" fill="#FFFFFF"/><path d="M188 52 V 37 A 12 12 0 0 1 212 37 V 40 H 188 Z" fill="#2B1B12"/></g><g transform="rotate(0 200 125)"><rect x="188" y="25" width="24" height="100" rx="12" fill="#F0A35E"/><rect x="188" y="40" width="24" height="12" fill="#FFFFFF"/><path d="M188 52 V 37 A 12 12 0 0 1 212 37 V 40 H 188 Z" fill="#2B1B12"/></g><g transform="rotate(25 200 125)"><rect x="188" y="25" width="24" height="100" rx="12" fill="#F0A35E"/><rect x="188" y="40" width="24" height="12" fill="#FFFFFF"/><path d="M188 52 V 37 A 12 12 0 0 1 212 37 V 40 H 188 Z" fill="#2B1B12"/></g><g transform="rotate(50 200 125)"><rect x="188" y="25" width="24" height="100" rx="12" fill="#F0A35E"/><rect x="188" y="40" width="24" height="12" fill="#FFFFFF"/><path d="M188 52 V 37 A 12 12 0 0 1 212 37 V 40 H 188 Z" fill="#2B1B12"/></g>
+  <!-- tail -->
+  <path d="M120 270 L 40 320 L 55 345 L 135 300 Z" fill="#2B1B12"/>
+  <path d="M62 309 L 74 332 L 88 324 L 76 300 Z" fill="#FFFFFF"/>
+  <!-- legs -->
+  <path d="M185 320 V 375 M220 320 V 375" stroke="#7A5A48" stroke-width="7" stroke-linecap="round"/>
+  <path d="M170 378 H 200 M205 378 H 235" stroke="#7A5A48" stroke-width="7" stroke-linecap="round"/>
+  <!-- body -->
+  <ellipse cx="200" cy="260" rx="88" ry="72" fill="#E8A36B"/>
+  <ellipse cx="225" cy="280" rx="50" ry="45" fill="#FFE2C4"/>
+  <!-- striped wing -->
+  <path d="M120 230 C 150 215, 205 225, 215 262 C 200 300, 140 300, 115 275 Z" fill="#2B1B12"/>
+  <path d="M135 236 L 150 294 M160 228 L 172 298 M186 232 L 194 290" stroke="#FFFFFF" stroke-width="9" stroke-linecap="round"/>
+  <!-- head -->
+  <circle cx="215" cy="165" r="60" fill="#F0A35E"/>
+  <!-- beak -->
+  <path d="M265 170 C 300 172, 335 185, 362 210 C 330 200, 298 192, 262 188 Z" fill="#3A2A20"/>
+  <!-- eye -->
+  <circle cx="232" cy="155" r="17" fill="#2B1B12"/>
+  <circle cx="238" cy="149" r="6" fill="#fff"/>
+  <ellipse cx="218" cy="185" rx="12" ry="7" fill="#FF8FA3" opacity="0.6"/>
+</g>

@@ -1,0 +1,41 @@
+<!-- Suhail the fennec fox, drawn in a 400x400 box, origin top-left -->
+<g id="suhail">
+  <!-- tail -->
+  <path d="M290 330 C 360 320, 385 250, 345 205 C 330 250, 300 275, 262 290 Z" fill="#E8913F"/>
+  <path d="M345 205 C 372 232, 372 262, 360 282 C 350 262, 340 240, 330 228 Z" fill="#FFF1DC"/>
+  <!-- body -->
+  <ellipse cx="200" cy="318" rx="92" ry="70" fill="#F2A65A"/>
+  <ellipse cx="200" cy="332" rx="52" ry="48" fill="#FFF1DC"/>
+  <!-- feet -->
+  <ellipse cx="160" cy="382" rx="30" ry="14" fill="#E8913F"/>
+  <ellipse cx="240" cy="382" rx="30" ry="14" fill="#E8913F"/>
+  <!-- ears -->
+  <path d="M120 150 C 70 90, 55 30, 72 6 C 120 20, 165 70, 175 125 Z" fill="#F2A65A"/>
+  <path d="M125 135 C 95 95, 85 55, 92 34 C 122 48, 150 85, 158 120 Z" fill="#FFC9A8"/>
+  <path d="M280 150 C 330 90, 345 30, 328 6 C 280 20, 235 70, 225 125 Z" fill="#F2A65A"/>
+  <path d="M275 135 C 305 95, 315 55, 308 34 C 278 48, 250 85, 242 120 Z" fill="#FFC9A8"/>
+  <!-- head -->
+  <ellipse cx="200" cy="185" rx="98" ry="84" fill="#F2A65A"/>
+  <!-- face mask -->
+  <path d="M110 200 C 130 255, 175 268, 200 268 C 225 268, 270 255, 290 200 C 265 215, 235 205, 200 225 C 165 205, 135 215, 110 200 Z" fill="#FFF1DC"/>
+  <!-- cheeks -->
+  <ellipse cx="138" cy="222" rx="16" ry="10" fill="#FF8FA3" opacity="0.55"/>
+  <ellipse cx="262" cy="222" rx="16" ry="10" fill="#FF8FA3" opacity="0.55"/>
+  <!-- eyes -->
+  <ellipse cx="160" cy="180" rx="22" ry="27" fill="#2B1B12"/>
+  <ellipse cx="240" cy="180" rx="22" ry="27" fill="#2B1B12"/>
+  <circle cx="168" cy="170" r="8" fill="#fff"/>
+  <circle cx="248" cy="170" r="8" fill="#fff"/>
+  <circle cx="155" cy="192" r="4" fill="#fff" opacity="0.8"/>
+  <circle cx="235" cy="192" r="4" fill="#fff" opacity="0.8"/>
+  <!-- brows -->
+  <path d="M140 145 Q 158 136 176 144" stroke="#C9722C" stroke-width="5" fill="none" stroke-linecap="round"/>
+  <path d="M224 144 Q 242 136 260 145" stroke="#C9722C" stroke-width="5" fill="none" stroke-linecap="round"/>
+  <!-- nose + mouth -->
+  <path d="M188 222 Q 200 214 212 222 Q 206 234 200 235 Q 194 234 188 222 Z" fill="#2B1B12"/>
+  <path d="M200 235 Q 200 246 188 248 M200 235 Q 200 246 212 248" stroke="#2B1B12" stroke-width="4" fill="none" stroke-linecap="round"/>
+  <!-- scarf -->
+  <path d="M118 252 C 150 280, 250 280, 282 252 L 290 276 C 250 305, 150 305, 110 276 Z" fill="#2EC4B6"/>
+  <path d="M250 280 L 285 345 L 255 350 L 232 290 Z" fill="#22A699"/>
+  <path d="M262 318 L 278 316 M258 330 L 280 328" stroke="#1B8A80" stroke-width="3"/>
+</g>

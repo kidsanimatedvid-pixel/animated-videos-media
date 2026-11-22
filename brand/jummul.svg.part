@@ -1,0 +1,41 @@
+
+<g id="jummul">
+  <!-- tail -->
+  <path d="M95 290 C 70 300, 65 330, 78 345" stroke="#C9A06A" stroke-width="8" fill="none" stroke-linecap="round"/>
+  <ellipse cx="78" cy="350" rx="10" ry="14" fill="#8A6440"/>
+  <!-- back legs -->
+  <rect x="115" y="320" width="34" height="62" rx="17" fill="#D9A866"/>
+  <rect x="245" y="320" width="34" height="62" rx="17" fill="#D9A866"/>
+  <!-- floppy hump -->
+  <path d="M130 255 C 120 185, 175 160, 215 180 C 240 195, 245 225, 250 255 Z" fill="#EFC88C"/>
+  <path d="M205 178 C 235 170, 262 190, 258 215 C 245 205, 228 200, 215 198 Z" fill="#D9A866"/>
+  <!-- body -->
+  <ellipse cx="200" cy="290" rx="112" ry="62" fill="#EFC88C"/>
+  <ellipse cx="205" cy="305" rx="70" ry="38" fill="#FFF3DE"/>
+  <!-- front legs -->
+  <rect x="150" y="325" width="36" height="62" rx="18" fill="#EFC88C"/>
+  <rect x="215" y="325" width="36" height="62" rx="18" fill="#EFC88C"/>
+  <ellipse cx="168" cy="386" rx="22" ry="9" fill="#C9A06A"/>
+  <ellipse cx="233" cy="386" rx="22" ry="9" fill="#C9A06A"/>
+  <!-- neck -->
+  <path d="M270 270 C 300 240, 300 200, 292 170 L 330 165 C 345 205, 330 255, 300 290 Z" fill="#EFC88C"/>
+  <!-- ears -->
+  <ellipse cx="282" cy="88" rx="12" ry="20" fill="#D9A866" transform="rotate(-25 282 88)"/>
+  <ellipse cx="330" cy="84" rx="12" ry="20" fill="#D9A866" transform="rotate(20 330 84)"/>
+  <!-- head -->
+  <ellipse cx="308" cy="135" rx="62" ry="52" fill="#EFC88C"/>
+  <ellipse cx="350" cy="160" rx="42" ry="32" fill="#FFF3DE"/>
+  <!-- tuft -->
+  <path d="M290 88 q 8 -16 18 -2 q 8 -16 18 0 q 6 -12 14 4" fill="#C9A06A"/>
+  <!-- eye with long lashes -->
+  <ellipse cx="315" cy="125" rx="13" ry="17" fill="#2B1B12"/>
+  <circle cx="320" cy="118" r="5" fill="#fff"/>
+  <path d="M304 110 l -10 -12 M312 107 l -4 -15 M321 107 l 2 -15 M329 111 l 8 -12" stroke="#2B1B12" stroke-width="4" stroke-linecap="round"/>
+  <!-- nostril, smile, cheek -->
+  <ellipse cx="372" cy="150" rx="5" ry="3" fill="#8A6440"/>
+  <path d="M340 178 Q 356 190 374 178" stroke="#8A6440" stroke-width="5" fill="none" stroke-linecap="round"/>
+  <ellipse cx="300" cy="158" rx="13" ry="8" fill="#FF9FB0" opacity="0.6"/>
+  <!-- a date (snack) -->
+  <ellipse cx="385" cy="190" rx="11" ry="16" fill="#7A3E1D" transform="rotate(25 385 190)"/>
+  <path d="M382 176 q 6 -6 10 -2" stroke="#4E7A3A" stroke-width="3" fill="none"/>
+</g>
