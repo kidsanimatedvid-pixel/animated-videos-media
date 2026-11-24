@@ -3,7 +3,6 @@
 ## STORY — حكايات سُهَيْل (bedtime, 40–55 s)
 | # | Working title | Type | Value | Notes |
 |---|---|---|---|---|
-| 3 | سُهَيْل ينقذ السلحفاة الصغيرة 🐢 | rescue (Gulf beach) | helping others | baby turtle on its back near the sea |
 | 4 | الثعلب والغراب… مع سُهَيْل 🐦 | fable retold | don't fall for flattery | Suhail is the one who learns, not the trickster |
 | 5 | سُهَيْل يخاف من الظلام 🌙 | everyday | courage | Qamra shows the night is full of friends |
 | 6 | جُمّول والسباق الطويل 🐪 | fable (tortoise & hare) | keep going | Jummul slow and steady |
@@ -26,7 +25,6 @@
 Go through the Arabic alphabet in order, one letter per episode, using a word from the cast's world; on Thursdays do a number (1–10, counting dates/stars), then colours and desert animals after the alphabet.
 | # | Letter | Word | Picture |
 |---|---|---|---|
-| 2 | ب | بَطَّة | a duck at the oasis |
 | 3 | ت | تَمْر | Jummul's dates |
 | 4 | ث | ثَعْلَب | Suhail himself! |
 | 5 | ج | جَمَل | Jummul |
