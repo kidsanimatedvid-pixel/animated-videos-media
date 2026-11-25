@@ -3,7 +3,6 @@
 ## STORY — حكايات سُهَيْل (bedtime, 40–55 s)
 | # | Working title | Type | Value | Notes |
 |---|---|---|---|---|
-| 4 | الثعلب والغراب… مع سُهَيْل 🐦 | fable retold | don't fall for flattery | Suhail is the one who learns, not the trickster |
 | 5 | سُهَيْل يخاف من الظلام 🌙 | everyday | courage | Qamra shows the night is full of friends |
 | 6 | جُمّول والسباق الطويل 🐪 | fable (tortoise & hare) | keep going | Jummul slow and steady |
 | 7 | من كسر فانوس قَمْرة؟ 🏮 | mystery | telling the truth | Suhail confesses |
@@ -22,7 +21,7 @@
 | 20 | سباق الطائرات الورقية 🪁 | adventure | good sportsmanship | |
 
 ## LEARN — تعلَّم مع سُهَيْل (30–40 s)
-Go through the Arabic alphabet in order, one letter per episode, using a word from the cast's world; on Thursdays do a number (1–10, counting dates/stars), then colours and desert animals after the alphabet.
+Go through the Arabic alphabet in order, one letter per episode, using a word from the cast's world; on Thursdays do a number (1–10, counting dates/stars), then colours and desert animals after the alphabet. Numbers done: ١ (26 Nov) → next Thursday: ٢.
 | # | Letter | Word | Picture |
 |---|---|---|---|
 | 3 | ت | تَمْر | Jummul's dates |
