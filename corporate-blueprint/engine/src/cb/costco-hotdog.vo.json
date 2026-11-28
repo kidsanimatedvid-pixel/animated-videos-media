@@ -1,0 +1,661 @@
+{
+ "slug": "costco-hotdog",
+ "total": 42.89,
+ "lines": [
+  {
+   "id": "L1",
+   "text": "This hot dog has cost $1.50 since 1985.",
+   "start": 0.25,
+   "end": 4.08,
+   "words": [
+    {
+     "w": "This",
+     "s": 0.25,
+     "e": 0.629
+    },
+    {
+     "w": "hot",
+     "s": 0.629,
+     "e": 0.944
+    },
+    {
+     "w": "dog",
+     "s": 0.944,
+     "e": 1.26
+    },
+    {
+     "w": "has",
+     "s": 1.26,
+     "e": 1.575
+    },
+    {
+     "w": "cost",
+     "s": 1.575,
+     "e": 1.954
+    },
+    {
+     "w": "$1.50",
+     "s": 1.954,
+     "e": 2.27
+    },
+    {
+     "w": "since",
+     "s": 2.27,
+     "e": 2.711
+    },
+    {
+     "w": "1985.",
+     "s": 2.711,
+     "e": 3.09
+    }
+   ],
+   "heard": "This hot dog has cost $1 .50 since 1985.",
+   "matched": false
+  },
+  {
+   "id": "L2",
+   "text": "Adjusted for inflation, it would cost over $4.50 today.",
+   "start": 4.53,
+   "end": 8.08,
+   "words": [
+    {
+     "w": "Adjusted",
+     "s": 4.53,
+     "e": 5.07
+    },
+    {
+     "w": "for",
+     "s": 5.07,
+     "e": 5.21
+    },
+    {
+     "w": "inflation,",
+     "s": 5.21,
+     "e": 5.75
+    },
+    {
+     "w": "it",
+     "s": 6.13,
+     "e": 6.21
+    },
+    {
+     "w": "would",
+     "s": 6.21,
+     "e": 6.31
+    },
+    {
+     "w": "cost",
+     "s": 6.31,
+     "e": 6.67
+    },
+    {
+     "w": "over",
+     "s": 6.67,
+     "e": 6.89
+    },
+    {
+     "w": "$4.50",
+     "s": 6.89,
+     "e": 7.37
+    },
+    {
+     "w": "today.",
+     "s": 7.37,
+     "e": 7.85
+    }
+   ],
+   "heard": "Adjusted for inflation, it would cost over 450 today.",
+   "matched": true
+  },
+  {
+   "id": "L3",
+   "text": "And Costco's CEO says the price will not change as long as he's around.",
+   "start": 8.38,
+   "end": 12.531,
+   "words": [
+    {
+     "w": "And",
+     "s": 8.38,
+     "e": 8.46
+    },
+    {
+     "w": "Costco's",
+     "s": 8.46,
+     "e": 9.04
+    },
+    {
+     "w": "CEO",
+     "s": 9.04,
+     "e": 9.4
+    },
+    {
+     "w": "says",
+     "s": 9.4,
+     "e": 9.78
+    },
+    {
+     "w": "the",
+     "s": 9.78,
+     "e": 9.98
+    },
+    {
+     "w": "price",
+     "s": 9.98,
+     "e": 10.26
+    },
+    {
+     "w": "will",
+     "s": 10.26,
+     "e": 10.46
+    },
+    {
+     "w": "not",
+     "s": 10.46,
+     "e": 10.68
+    },
+    {
+     "w": "change",
+     "s": 10.68,
+     "e": 11.1
+    },
+    {
+     "w": "as",
+     "s": 11.1,
+     "e": 11.48
+    },
+    {
+     "w": "long",
+     "s": 11.48,
+     "e": 11.66
+    },
+    {
+     "w": "as",
+     "s": 11.66,
+     "e": 11.84
+    },
+    {
+     "w": "he's",
+     "s": 11.84,
+     "e": 11.98
+    },
+    {
+     "w": "around.",
+     "s": 11.98,
+     "e": 12.28
+    }
+   ],
+   "heard": "And Costco's CEO says the price will not change as long as he's around.",
+   "matched": true
+  },
+  {
+   "id": "L4",
+   "text": "Why? Because Costco runs on razor-thin margins.",
+   "start": 13.031,
+   "end": 16.064,
+   "words": [
+    {
+     "w": "Why?",
+     "s": 13.031,
+     "e": 13.289
+    },
+    {
+     "w": "Because",
+     "s": 13.289,
+     "e": 13.753
+    },
+    {
+     "w": "Costco",
+     "s": 13.753,
+     "e": 14.165
+    },
+    {
+     "w": "runs",
+     "s": 14.165,
+     "e": 14.474
+    },
+    {
+     "w": "on",
+     "s": 14.474,
+     "e": 14.681
+    },
+    {
+     "w": "razor-thin",
+     "s": 14.681,
+     "e": 15.248
+    },
+    {
+     "w": "margins.",
+     "s": 15.248,
+     "e": 15.711
+    }
+   ],
+   "heard": "Why? Because Costco runs on razor -thin margins.",
+   "matched": false
+  },
+  {
+   "id": "L5",
+   "text": "Of every dollar it takes in, it keeps about three cents as profit.",
+   "start": 16.364,
+   "end": 20.063,
+   "words": [
+    {
+     "w": "Of",
+     "s": 16.364,
+     "e": 16.484
+    },
+    {
+     "w": "every",
+     "s": 16.484,
+     "e": 16.724
+    },
+    {
+     "w": "dollar",
+     "s": 16.724,
+     "e": 17.044
+    },
+    {
+     "w": "it",
+     "s": 17.044,
+     "e": 17.224
+    },
+    {
+     "w": "takes",
+     "s": 17.224,
+     "e": 17.464
+    },
+    {
+     "w": "in,",
+     "s": 17.464,
+     "e": 17.784
+    },
+    {
+     "w": "it",
+     "s": 18.064,
+     "e": 18.144
+    },
+    {
+     "w": "keeps",
+     "s": 18.144,
+     "e": 18.404
+    },
+    {
+     "w": "about",
+     "s": 18.404,
+     "e": 18.684
+    },
+    {
+     "w": "three",
+     "s": 18.684,
+     "e": 19.004
+    },
+    {
+     "w": "cents",
+     "s": 19.004,
+     "e": 19.344
+    },
+    {
+     "w": "as",
+     "s": 19.344,
+     "e": 19.504
+    },
+    {
+     "w": "profit.",
+     "s": 19.504,
+     "e": 19.884
+    }
+   ],
+   "heard": "Of every dollar it takes in, it keeps about three cents as profit.",
+   "matched": true
+  },
+  {
+   "id": "L6",
+   "text": "Its real product is this.",
+   "start": 20.563,
+   "end": 22.27,
+   "words": [
+    {
+     "w": "Its",
+     "s": 20.563,
+     "e": 20.683
+    },
+    {
+     "w": "real",
+     "s": 20.683,
+     "e": 21.003
+    },
+    {
+     "w": "product",
+     "s": 21.003,
+     "e": 21.523
+    },
+    {
+     "w": "is",
+     "s": 21.523,
+     "e": 21.803
+    },
+    {
+     "w": "this.",
+     "s": 21.803,
+     "e": 22.003
+    }
+   ],
+   "heard": "its real product is this.",
+   "matched": true
+  },
+  {
+   "id": "L7",
+   "text": "In its last fiscal year, members paid $5.9 billion just for the right to shop there.",
+   "start": 22.72,
+   "end": 28.535,
+   "words": [
+    {
+     "w": "In",
+     "s": 22.72,
+     "e": 22.955
+    },
+    {
+     "w": "its",
+     "s": 22.955,
+     "e": 23.247
+    },
+    {
+     "w": "last",
+     "s": 23.247,
+     "e": 23.599
+    },
+    {
+     "w": "fiscal",
+     "s": 23.599,
+     "e": 24.067
+    },
+    {
+     "w": "year,",
+     "s": 24.067,
+     "e": 24.418
+    },
+    {
+     "w": "members",
+     "s": 24.418,
+     "e": 24.945
+    },
+    {
+     "w": "paid",
+     "s": 24.945,
+     "e": 25.297
+    },
+    {
+     "w": "$5.9",
+     "s": 25.297,
+     "e": 25.531
+    },
+    {
+     "w": "billion",
+     "s": 25.531,
+     "e": 26.058
+    },
+    {
+     "w": "just",
+     "s": 26.058,
+     "e": 26.409
+    },
+    {
+     "w": "for",
+     "s": 26.409,
+     "e": 26.702
+    },
+    {
+     "w": "the",
+     "s": 26.702,
+     "e": 26.995
+    },
+    {
+     "w": "right",
+     "s": 26.995,
+     "e": 27.405
+    },
+    {
+     "w": "to",
+     "s": 27.405,
+     "e": 27.639
+    },
+    {
+     "w": "shop",
+     "s": 27.639,
+     "e": 27.99
+    },
+    {
+     "w": "there.",
+     "s": 27.99,
+     "e": 28.4
+    }
+   ],
+   "heard": "In its last fiscal year, members paid $5 .9 billion just for the right to shop there.",
+   "matched": false
+  },
+  {
+   "id": "L8",
+   "text": "That's equal to nearly two-thirds of Costco's entire profit.",
+   "start": 28.835,
+   "end": 32.286,
+   "words": [
+    {
+     "w": "That's",
+     "s": 28.835,
+     "e": 29.183
+    },
+    {
+     "w": "equal",
+     "s": 29.183,
+     "e": 29.53
+    },
+    {
+     "w": "to",
+     "s": 29.53,
+     "e": 29.729
+    },
+    {
+     "w": "nearly",
+     "s": 29.729,
+     "e": 30.127
+    },
+    {
+     "w": "two-thirds",
+     "s": 30.127,
+     "e": 30.673
+    },
+    {
+     "w": "of",
+     "s": 30.673,
+     "e": 30.872
+    },
+    {
+     "w": "Costco's",
+     "s": 30.872,
+     "e": 31.32
+    },
+    {
+     "w": "entire",
+     "s": 31.32,
+     "e": 31.717
+    },
+    {
+     "w": "profit.",
+     "s": 31.717,
+     "e": 32.115
+    }
+   ],
+   "heard": "That's equal to nearly two -thirds of Costco's entire profit.",
+   "matched": false
+  },
+  {
+   "id": "L9",
+   "text": "So the hot dog isn't really a menu item. It's a signal: everything in this building is a deal.",
+   "start": 32.786,
+   "end": 38.094,
+   "words": [
+    {
+     "w": "So",
+     "s": 32.786,
+     "e": 32.906
+    },
+    {
+     "w": "the",
+     "s": 32.906,
+     "e": 33.026
+    },
+    {
+     "w": "hot",
+     "s": 33.026,
+     "e": 33.246
+    },
+    {
+     "w": "dog",
+     "s": 33.246,
+     "e": 33.546
+    },
+    {
+     "w": "isn't",
+     "s": 33.546,
+     "e": 33.946
+    },
+    {
+     "w": "really",
+     "s": 33.946,
+     "e": 34.126
+    },
+    {
+     "w": "a",
+     "s": 34.126,
+     "e": 34.306
+    },
+    {
+     "w": "menu",
+     "s": 34.306,
+     "e": 34.526
+    },
+    {
+     "w": "item.",
+     "s": 34.526,
+     "e": 34.946
+    },
+    {
+     "w": "It's",
+     "s": 35.366,
+     "e": 35.566
+    },
+    {
+     "w": "a",
+     "s": 35.566,
+     "e": 35.646
+    },
+    {
+     "w": "signal:",
+     "s": 35.646,
+     "e": 36.006
+    },
+    {
+     "w": "everything",
+     "s": 36.006,
+     "e": 36.606
+    },
+    {
+     "w": "in",
+     "s": 36.606,
+     "e": 36.926
+    },
+    {
+     "w": "this",
+     "s": 36.926,
+     "e": 37.026
+    },
+    {
+     "w": "building",
+     "s": 37.026,
+     "e": 37.346
+    },
+    {
+     "w": "is",
+     "s": 37.346,
+     "e": 37.586
+    },
+    {
+     "w": "a",
+     "s": 37.586,
+     "e": 37.666
+    },
+    {
+     "w": "deal.",
+     "s": 37.666,
+     "e": 37.886
+    }
+   ],
+   "heard": "So the hot dog isn't really a menu item. It's a signal everything in this building is a deal.",
+   "matched": true
+  },
+  {
+   "id": "L10",
+   "text": "Keep that promise, and people keep paying just to walk in.",
+   "start": 38.494,
+   "end": 41.689,
+   "words": [
+    {
+     "w": "Keep",
+     "s": 38.494,
+     "e": 38.654
+    },
+    {
+     "w": "that",
+     "s": 38.654,
+     "e": 38.894
+    },
+    {
+     "w": "promise,",
+     "s": 38.894,
+     "e": 39.354
+    },
+    {
+     "w": "and",
+     "s": 39.354,
+     "e": 39.674
+    },
+    {
+     "w": "people",
+     "s": 39.674,
+     "e": 39.974
+    },
+    {
+     "w": "keep",
+     "s": 39.974,
+     "e": 40.234
+    },
+    {
+     "w": "paying",
+     "s": 40.234,
+     "e": 40.574
+    },
+    {
+     "w": "just",
+     "s": 40.574,
+     "e": 40.894
+    },
+    {
+     "w": "to",
+     "s": 40.894,
+     "e": 41.094
+    },
+    {
+     "w": "walk",
+     "s": 41.094,
+     "e": 41.294
+    },
+    {
+     "w": "in.",
+     "s": 41.294,
+     "e": 41.534
+    }
+   ],
+   "heard": "Keep that promise and people keep paying just to walk in.",
+   "matched": true
+  }
+ ]
+}

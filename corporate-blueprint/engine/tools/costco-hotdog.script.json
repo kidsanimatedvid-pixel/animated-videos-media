@@ -1,0 +1,13 @@
+{"slug":"costco-hotdog","voice":"mix","speed":1.1,"gap":0.3,
+ "lines":[
+ {"id":"L1","text":"This hot dog has cost $1.50 since 1985.","spoken":"This hot dog has cost a dollar fifty since 1985.","pauseAfter":0.45},
+ {"id":"L2","text":"Adjusted for inflation, it would cost over $4.50 today.","spoken":"Adjusted for inflation, it would cost over four fifty today."},
+ {"id":"L3","text":"And Costco's CEO says the price will not change as long as he's around.","pauseAfter":0.5},
+ {"id":"L4","text":"Why? Because Costco runs on razor-thin margins."},
+ {"id":"L5","text":"Of every dollar it takes in, it keeps about three cents as profit.","pauseAfter":0.5},
+ {"id":"L6","text":"Its real product is this.","pauseAfter":0.45},
+ {"id":"L7","text":"In its last fiscal year, members paid $5.9 billion just for the right to shop there.","spoken":"In its last fiscal year, members paid five point nine billion dollars just for the right to shop there."},
+ {"id":"L8","text":"That's equal to nearly two-thirds of Costco's entire profit.","pauseAfter":0.5},
+ {"id":"L9","text":"So the hot dog isn't really a menu item. It's a signal: everything in this building is a deal.","pauseAfter":0.4},
+ {"id":"L10","text":"Keep that promise, and people keep paying just to walk in."}
+ ]}

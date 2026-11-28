@@ -1,5 +1,8 @@
 # Channel playbook — Arabic kids' story Shorts (v1.3, 22 Nov 2026)
 
+> **PAUSED 28 Nov 2026.** The owner is rebranding this channel to *Corporate Blueprint* (English business documentaries). This kids playbook is kept for reference only; see `corporate-blueprint/CHANNEL_STRATEGY.md`.
+
+
 Adapted from the shared football/WONDER setup pack. Claude reads this before every video. The engine, pipeline and checks from the original pack still apply unless this doc says otherwise. Items marked DRAFT wait for the owner's approval.
 
 ## 0. Channel basics

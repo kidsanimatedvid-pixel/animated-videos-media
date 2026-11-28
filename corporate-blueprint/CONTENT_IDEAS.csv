@@ -1,0 +1,103 @@
+id,title,pillar,curiosity25,demand20,visual20,originality15,emotion10,monetization10,total100,premise_status,notes
+I001,Why Costco Won't Raise Its $1.50 Hot Dog Price,CS,23,18,18,9,8,9,85,VERIFIED,"PRODUCED #001 (28 Nov 2026); covered by small channels, angle = membership math"
+I002,McDonald's Is Really a Landlord,CS,23,19,18,8,7,9,84,NUANCE,"rent ~63% of franchised revenue FY2025 10-K; Sonneborn quote, not Kroc"
+I003,Where Your 2% Swipe Fee Actually Goes (Visa),CS,22,17,18,10,6,10,83,NUANCE,most goes to issuing bank; Visa = network fees
+I020,Why Hermès Bags Are So Hard to Buy,CS,23,17,17,8,8,10,83,NUANCE,antitrust suit dismissed 2025; scarcity = capacity per Hermès
+I041,How LEGO Nearly Went Broke,RF,22,18,19,7,8,9,83,VERIFIED,2003 record loss; refocus; 2025 records
+I078,How SpaceX Made Rockets Reusable — and Cheap,FE,22,18,19,6,8,9,82,CANDIDATE,
+I004,Why Printer Ink Costs So Much,CS,22,17,17,9,8,8,81,VERIFIED,HP printing margin 18.9% vs PCs 5.8%; CEO quote 2024
+I005,Why Airlines Sell More Seats Than They Have,CS,21,17,19,9,7,8,81,VERIFIED,DOT: 0.30 involuntary bumps per 10k; bust the fear
+I008,Why Red Bull Is a Media Company,CS,21,17,19,9,7,8,81,VERIFIED,"Media House, F1 teams, football clubs; €12.2B 2025"
+I013,How Disney Parks Make More Than Disney Films,CS,21,17,19,8,7,9,81,CANDIDATE,segment data in 10-K
+I030,The Company Behind Almost Every Pair of Glasses (EssilorLuxottica),HM,23,16,16,10,7,9,81,CANDIDATE,brands owned + retail
+I039,How Blockbuster Really Lost to Netflix,RF,22,19,17,6,8,9,81,NUANCE,Total Access near-win; Icahn; debt
+I042,How Nintendo Survived Every Crisis,RF,21,18,18,7,8,9,81,VERIFIED,card maker 1889 → Switch
+I054,The Concorde: A Plane That Made No Money,RF,22,16,19,8,8,8,81,CANDIDATE,
+I058,How Emirates Built an Airline Empire in the Desert,BS,21,16,19,9,7,9,81,VERIFIED,8-hour reach; record profit FY25/26; subsidy claims contested
+I019,How Rolex Turned Scarcity Into Strategy,CS,22,17,17,8,7,9,80,NUANCE,all figures are estimates; private company
+I026,How Starbucks Uses Its App Like a Bank,CS,22,16,16,11,6,9,80,CANDIDATE,stored-value card balances in 10-K
+I029,How Ticketmaster Became So Powerful,HM,22,18,16,8,8,8,80,CANDIDATE,DOJ suit 2024; contested — careful
+I031,ASML: The Machine Every Chipmaker Needs,HM,22,17,17,8,7,9,80,VERIFIED,only EUV maker; €32.7B 2025 sales
+I038,How Nokia Lost the Phone Wars,RF,22,18,17,6,8,9,80,NUANCE,"not bankrupt; Symbian/ecosystem, not 'ignored iPhone'"
+I043,The Fall of Kodak (Who Invented the Digital Camera),RF,23,18,17,5,8,9,80,CANDIDATE,Sasson 1975 prototype
+I071,How Ferrari Limits Production to Raise Value,BS,22,16,18,8,7,9,80,CANDIDATE,
+I077,The Business of Weight-Loss Drugs (Novo vs Lilly),FE,22,18,15,8,7,10,80,CANDIDATE,health topic — advertiser-safe framing
+I079,Why Luxury Brands Destroyed Unsold Goods (and Why the EU Banned It),CS,22,16,17,9,8,8,80,NUANCE,EU ban from 19 Jul 2026 — tell it as history + new law
+I010,How Gyms Profit From People Who Never Show Up,CS,22,17,15,9,8,8,79,CANDIDATE,need membership utilisation data
+I015,Why Uber Lost Money for 14 Years,CS,21,17,16,9,7,9,79,CANDIDATE,first annual operating profit 2023
+I017,How Apple Earns From Google Search on iPhone,CS,22,17,15,10,6,9,79,CANDIDATE,DOJ trial figures ~$20B (2022)
+I021,Why IKEA Stores Are Mazes,BP,22,17,19,7,6,8,79,NUANCE,60% unplanned claim unpublished; shortcuts exist
+I024,The Decoy Effect: Why Medium Popcorn Exists,BP,22,16,18,9,6,8,79,CANDIDATE,Ariely Economist subscription study
+I032,TSMC: The Factory Behind Your Phone,HM,21,18,17,7,7,9,79,CANDIDATE,
+I040,The Rise and Fall of WeWork,RF,22,18,16,6,8,9,79,VERIFIED,long leases vs short memberships; still operates
+I053,Why Boeing Lost Its Engineering Culture,RF,21,18,16,6,9,9,79,CANDIDATE,sensitive; strictly sourced
+I057,How NVIDIA Bet on AI Before AI Existed,BS,22,19,16,6,7,9,79,VERIFIED,CUDA 2006; FY2026 $215.9B
+I067,How Arm Earns From Almost Every Phone Without Making Chips,BS,22,15,16,11,6,9,79,CANDIDATE,royalty model
+I069,How Ryanair Profits From Tickets Under $20,BS,22,16,17,9,7,8,79,CANDIDATE,ancillary revenue share
+I094,How Duolingo Turned Guilt Into Growth,BP,22,16,17,9,7,8,79,CANDIDATE,streak mechanics; public filings
+I006,How Coca-Cola Sells Without Bottling (Much),CS,20,16,18,10,5,9,78,VERIFIED,"~200 bottlers, concentrate model"
+I007,The Business Behind Airport Duty-Free,CS,21,15,17,11,6,8,78,NUANCE,concessions = % of sales + minimums; not always cheaper
+I009,How Movie Theaters Really Make Money,CS,22,17,18,7,6,8,78,CANDIDATE,popcorn margins; studio ticket splits
+I044,How BlackBerry Went From 50% to 0%,RF,22,17,16,6,8,9,78,CANDIDATE,
+I046,How Sears Lost to Amazon (After Inventing Mail Order),RF,22,16,16,8,8,8,78,CANDIDATE,
+I083,How Credit Card Points Are Paid For,CS,21,17,15,9,6,10,78,CANDIDATE,interchange; Durbin
+I089,Why Restaurants Put the Expensive Dish First (Menu Engineering),BP,21,16,18,9,6,8,78,CANDIDATE,academic menu-design sources
+I012,How Vending Machines Became a Billion-Dollar Business in Japan,CS,20,14,18,12,6,7,77,CANDIDATE,
+I035,How One Company Supplies Most Tennis Balls/Zippers (YKK),HM,22,15,17,11,5,7,77,CANDIDATE,YKK zipper share estimates
+I045,The Collapse of Toys R Us,RF,21,17,16,7,8,8,77,CANDIDATE,LBO debt
+I056,How Zara Changed Fashion,BS,21,17,17,7,6,9,77,VERIFIED,vertical integration; 'made in Spain' outdated
+I060,Why Trader Joe's Has No Sales or Loyalty Program,BS,21,16,16,10,6,8,77,CANDIDATE,private; careful with figures
+I061,How Aldi Sells So Cheap,BS,21,17,17,8,6,8,77,CANDIDATE,
+I062,How In-N-Out Refused to Grow (On Purpose),BS,20,16,16,10,7,8,77,CANDIDATE,
+I074,How OpenAI's Costs Work (Compute Economics),FE,21,18,15,8,6,9,77,CANDIDATE,estimates only — label
+I076,Why Every Country Wants a Chip Factory,FE,20,16,17,9,6,9,77,CANDIDATE,"CHIPS Act, EU Chips Act"
+I081,How Private Equity Buys Your Dentist/Vet,HM,21,15,14,11,8,8,77,CANDIDATE,
+I091,The Psychology of 'Limited Edition' Drops (Supreme),BP,21,16,17,8,7,8,77,CANDIDATE,
+I098,How the Cruise Industry Avoids Most Taxes,HM,21,15,16,10,7,8,77,CANDIDATE,flags of convenience; sourced
+I014,How Spotify Pays Artists (and Why It Barely Profits),CS,20,17,16,8,7,8,76,CANDIDATE,
+I016,How Amazon Makes Most of Its Profit From AWS,CS,21,18,16,7,5,9,76,CANDIDATE,segment operating income
+I022,How Casinos Are Designed to Keep You Inside,BP,21,16,18,7,7,7,76,AVOID-FIRST,no-clocks is custom not rule; overclaim risk
+I027,Why Gift Cards Are Free Money for Retailers,CS,21,15,15,11,6,8,76,CANDIDATE,breakage revenue disclosures
+I048,The Theranos Machine That Never Worked,RF,22,18,15,4,9,8,76,CANDIDATE,court records; well-trodden
+I049,FTX: How $8 Billion Went Missing,RF,22,17,15,5,9,8,76,CANDIDATE,trial record
+I051,The Fall of Pan Am,RF,20,14,17,9,8,8,76,CANDIDATE,
+I059,How Singapore Airlines Built a Luxury Brand,BS,19,14,17,10,7,9,76,VERIFIED,
+I063,How Shein Ships So Cheap,BS,21,17,16,7,7,8,76,CANDIDATE,de minimis rule changed 2025 — check
+I064,How Dollar General Grew Where Walmart Won't Go,BS,20,15,16,11,6,8,76,CANDIDATE,
+I066,How Patagonia Gave the Company Away,BS,20,15,15,9,9,8,76,CANDIDATE,2022 trust structure
+I072,How Chick-fil-A Makes More Per Store Than McDonald's,BS,21,17,15,9,6,8,76,CANDIDATE,franchise disclosure doc figures
+I075,Who Wins the AI Chip War After NVIDIA,FE,21,17,15,8,6,9,76,CANDIDATE,
+I087,How Costco's Kirkland Brand Became Bigger Than Most Brands,CS,21,16,16,8,6,9,76,CANDIDATE,Kirkland sales ~$86B FY2024 claim — check
+I090,Why Amazon Prime Costs Less Than It's Worth (On Purpose),BP,21,17,15,8,6,9,76,CANDIDATE,
+I096,Why Lego Bricks Are So Expensive to Make,CS,20,15,18,9,6,8,76,CANDIDATE,
+I023,Why 99 Cents Works (Charm Pricing),BP,20,16,17,8,6,8,75,CANDIDATE,needs academic sources (Thomas & Morwitz 2005)
+I025,Why Free Shipping Thresholds Make You Spend More,BP,20,16,16,9,6,8,75,CANDIDATE,
+I033,How BlackRock Became So Powerful,HM,21,18,14,7,6,9,75,NUANCE,"client assets, not owned; avoid conspiracy"
+I068,How Berkshire Uses Insurance Float,BS,21,16,14,9,6,9,75,CANDIDATE,
+I086,Why Movie Popcorn Costs $9,CS,21,16,18,7,6,7,75,CANDIDATE,pair with theatre economics
+I095,How Hershey Controls Cocoa Costs (and Why Chocolate Got Pricey),CS,20,15,16,10,6,8,75,CANDIDATE,cocoa price spike 2024
+I101,How Tupperware Lost the Kitchen,RF,20,15,15,9,8,8,75,CANDIDATE,2024 bankruptcy
+I028,How Netflix Decides What to Cancel,CS,19,16,15,10,7,7,74,CANDIDATE,
+I034,The Two Companies That Make Most of the World's Seeds,HM,20,14,15,11,7,7,74,CANDIDATE,
+I070,How Walmart Squeezes Suppliers (Everyday Low Price),BS,20,16,16,8,6,8,74,CANDIDATE,
+I073,How Uniqlo Beat Fast Fashion With Basics,BS,19,14,16,11,6,8,74,CANDIDATE,
+I080,How Pharmaceutical Patents Keep Prices High (Evergreening),HM,20,15,13,10,8,8,74,CANDIDATE,
+I084,Why Banks Love Overdraft Fees,CS,20,15,14,9,7,9,74,CANDIDATE,CFPB data
+I093,"The Hidden Cost of 'Buy Now, Pay Later'",CS,20,16,14,8,7,9,74,CANDIDATE,
+I100,How Mattel Turned Barbie Into a Film Studio Strategy,BS,20,15,16,9,6,8,74,CANDIDATE,
+I036,Who Owns Your Favorite Snack Brands (Mondelez/Mars),HM,20,16,17,7,5,8,73,CANDIDATE,
+I037,Why Visa and Mastercard Are a Duopoly,HM,20,15,15,9,5,9,73,CANDIDATE,
+I099,Why Nobody Can Compete With Google Maps,HM,20,15,16,9,5,8,73,CANDIDATE,
+I011,Why Hotel Minibars Are Disappearing,CS,19,13,16,12,5,7,72,CANDIDATE,
+I018,Why Supermarkets Put Milk at the Back,CS,20,16,17,7,5,7,72,NUANCE,mostly logistics; myth risk — AVOID as early upload
+I047,What Happened to MySpace,RF,20,17,15,6,7,7,72,CANDIDATE,
+I052,How Quibi Burned $1.75 Billion in 6 Months,RF,21,15,14,7,7,8,72,CANDIDATE,
+I055,How Peloton Went From $50B to Crisis,RF,20,15,14,8,7,8,72,CANDIDATE,
+I082,Why Rental Cars Cost More at Airports,CS,19,14,15,11,6,7,72,CANDIDATE,concession recovery fees
+I085,How Insurance Companies Make Money From Your Premiums,CS,19,15,14,8,6,10,72,CANDIDATE,
+I088,How McDonald's Uses the Dollar Menu (Value Wars),BP,19,16,16,7,6,8,72,CANDIDATE,
+I097,How Nestlé Built a Water Business,HM,19,14,14,10,7,8,72,CANDIDATE,contested — careful
+I065,Why Tesla Doesn't Advertise (Much),BS,19,15,14,9,6,8,71,CANDIDATE,check 2023 ads start
+I092,How Starbucks Sizes Make You Buy Bigger,BP,19,15,17,8,5,7,71,CANDIDATE,
+I102,How Napster Changed Music Forever (and Died),RF,19,15,14,7,8,7,70,CANDIDATE,
+I050,How Vine Died,RF,19,15,14,7,7,7,69,CANDIDATE,
